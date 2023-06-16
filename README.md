@@ -11,8 +11,8 @@ Here we provide the entire processing pipeline for reproducing the results in th
 1. TE_landscape (Fig. 1): [Jupyter Notebook](https://github.com/ventson/hscTE/blob/main/TE_landscape/TE_landscape.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/TE_landscape.tar.gz)
 - Human data processing
 1. EHT_RNA_Preprocessing (Fig. 2): [Jupyter Notebook](https://github.com/ventson/hscTE/blob/main/human_data_processing/1_EHT_RNA_Preprocessing/sample_human_agm.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/1_EHT_RNA_Preprocessing.tar.gz)
-2. EHT_Trajectory_Reconstruction
-3. EHT_TE_Expression
+2. EHT_Trajectory_Reconstruction (Fig. 2, Fig. 8): [Jupyter Notebook](https://github.com/ventson/hscTE/blob/main/human_data_processing/2_EHT_Trajectory_Reconstruction/sample_human_velocity.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/2_EHT_Trajectory_Reconstruction.tar.gz)
+3. EHT_TE_Expression (Fig. 2, Fig. 3, Fig. 4, Fig. 8): [Jupyter Notebook 1](https://github.com/ventson/hscTE/blob/main/human_data_processing/3_EHT_TE_Expression/sample_human_TE_EHT.ipynb), [Jupyter Notebook 2](https://github.com/ventson/hscTE/blob/main/human_data_processing/3_EHT_TE_Expression/sample_human_TE_AGM.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/3_EHT_TE_Expression.tar.gz)
 4. EHT_TE_hdWGCNA
 5. EHT_TE_Silencing_Relaxation
 6. EHT_TE_Sensing
