@@ -16,6 +16,6 @@ Here we provide the entire processing pipeline for reproducing the results in th
 4. EHT_TE_hdWGCNA (Fig. 3): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/4_EHT_TE_hdWGCNA/sample_human_TE_hdWGCNA.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/4_EHT_TE_hdWGCNA.tar.gz)
 5. EHT_TE_Silencing_Relaxation (Fig. 4): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/5_EHT_TE_Silencing_Relaxation/sample_human_TE_silencing_relaxation.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/5_EHT_TE_Silencing_Relaxation.tar.gz)
 6. EHT_TE_Sensing (Fig. 5): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/6_EHT_TE_Sensing/sample_human_TE_sensing.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/6_EHT_TE_Sensing.tar.gz)
-7. EHT_Spatial_Transcriptome
-8. EHT_TE_Hypoxia
-9. HUVEC_Hypoxia_Bulk
+7. EHT_Spatial_Transcriptome (Fig. 8): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/7_EHT_Spatial_Transcriptome/sample_human_spatial.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/7_EHT_Spatial_Transcriptome.tar.gz)
+8. EHT_TE_Hypoxia (Fig. 8): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/8_EHT_TE_Hypoxia/sample_human_TE_hypoxia.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/8_EHT_TE_Hypoxia.tar.gz)
+9. HUVEC_Hypoxia_Bulk (Fig. 8): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/9_HUVEC_Hypoxia_Bulk/sample_huvec_hypoxia.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/9_HUVEC_Hypoxia_Bulk.tar.gz)
