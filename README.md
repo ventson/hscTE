@@ -5,4 +5,7 @@ Here we provide the entire processing pipeline for reproducing the results in th
 - [R (recommend >=4.2)](https://cran.r-project.org/)
 - [Python (recommend >=3.9)](https://www.python.org/)
 - [(Optional but recommend) Jupyter Notebook](https://jupyter.org/)
-- [Other packages (see session info at the end of each notebook)]
+- Other packages (see session info at the end of each notebook)
+### Pipelines and data
+- TE landscape analysis
+  1. TE_landscape (Fig. 1): [Jupyter Notebook](https://github.com/ventson/hscTE/blob/main/TE_landscape/TE_landscape.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/TE_landscape.tar.gz)
