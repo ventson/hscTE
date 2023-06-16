@@ -13,9 +13,9 @@ Here we provide the entire processing pipeline for reproducing the results in th
 1. EHT_RNA_Preprocessing (Fig. 2): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/1_EHT_RNA_Preprocessing/sample_human_agm.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/1_EHT_RNA_Preprocessing.tar.gz)
 2. EHT_Trajectory_Reconstruction (Fig. 2, Fig. 8): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/2_EHT_Trajectory_Reconstruction/sample_human_velocity.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/2_EHT_Trajectory_Reconstruction.tar.gz)
 3. EHT_TE_Expression (Fig. 2, Fig. 3, Fig. 4, Fig. 8): [Jupyter 1](https://github.com/ventson/hscTE/blob/main/human_data_processing/3_EHT_TE_Expression/sample_human_TE_EHT.ipynb), [Jupyter 2](https://github.com/ventson/hscTE/blob/main/human_data_processing/3_EHT_TE_Expression/sample_human_TE_AGM.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/3_EHT_TE_Expression.tar.gz)
-4. EHT_TE_hdWGCNA
-5. EHT_TE_Silencing_Relaxation
-6. EHT_TE_Sensing
+4. EHT_TE_hdWGCNA (Fig. 3): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/4_EHT_TE_hdWGCNA/sample_human_TE_hdWGCNA.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/4_EHT_TE_hdWGCNA.tar.gz)
+5. EHT_TE_Silencing_Relaxation (Fig. 4): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/5_EHT_TE_Silencing_Relaxation/sample_human_TE_silencing_relaxation.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/5_EHT_TE_Silencing_Relaxation.tar.gz)
+6. EHT_TE_Sensing (Fig. 5): [Jupyter](https://github.com/ventson/hscTE/blob/main/human_data_processing/6_EHT_TE_Sensing/sample_human_TE_sensing.ipynb) | [Source data](https://bis.zju.edu.cn/hscTE/download/human_data_processing/6_EHT_TE_Sensing.tar.gz)
 7. EHT_Spatial_Transcriptome
 8. EHT_TE_Hypoxia
 9. HUVEC_Hypoxia_Bulk
