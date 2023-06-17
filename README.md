@@ -4,7 +4,7 @@ Here we provide the entire processing pipeline for reproducing the results in th
 ### Execution requirements
 - [R (recommend >=4.2)](https://cran.r-project.org/)
 - [Python (recommend >=3.9)](https://www.python.org/)
-- [(Optional but recommend) Jupyter Notebook](https://jupyter.org/)
+- [Jupyter Notebook (Optional but recommend) ](https://jupyter.org/)
 - Other packages (see session info at the end of each notebook)
 ### Pipelines and data
 - #### TE landscape analysis
